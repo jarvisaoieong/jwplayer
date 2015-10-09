@@ -1,0 +1,11 @@
+{
+  "name": "@jarvisaoieong/jwplayer",
+  "version": "5.7.0",
+  "description": "jwplayer for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
