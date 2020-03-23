@@ -1,6 +1,6 @@
 {
   "name": "@jarvisaoieong/jwplayer",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "description": "jwplayer for personal use",
   "main": "index.js",
   "scripts": {
